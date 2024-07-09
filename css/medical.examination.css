@@ -1,0 +1,83 @@
+#step-1 {
+    display: block;
+}
+
+#step-2 {
+    display: none;
+}
+
+#step-3 {
+    display: none;
+}
+
+#step-4 {
+    display: none;
+}
+
+#steps-done {
+    display: none;
+}
+
+#question-1-card {
+    display: block;
+}
+
+#question-2-card {
+    display: none;
+}
+
+#question-3-card {
+    display: none;
+}
+
+#question-4-card {
+    display: none;
+}
+
+#question-5-card {
+    display: none;
+}
+
+#question-6-card {
+    display: none;
+}
+
+#question-7-card {
+    display: none;
+}
+
+#question-8-card {
+    display: none;
+}
+
+
+#gen_phys_text {
+    display: none;
+}
+
+#cont_disease_text {
+    display: none;
+}
+
+.eye-con, .question-images:hover {
+    cursor: pointer;
+}
+
+#diabetes-content {
+    display: none;
+}
+
+#epilepsy-content {
+    display: none;
+}
+
+#sleep-apnea-content {
+    display: none;
+}
+
+#aggressive-disorder-content {
+    display: none;
+}
+#others-disorder-content {
+    display: none;
+}

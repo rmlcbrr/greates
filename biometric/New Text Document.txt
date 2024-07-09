@@ -1,0 +1,4 @@
+@echo off
+cd "C:\xampp\htdocs\biometric"
+start "java -cp "lib/*;". VideoCaptureDemo "
+exit
